@@ -1,0 +1,8 @@
+/.idea
+/vendor
+/build
+
+.DS_Store
+/stdin-beat
+/stdin-beat.test
+*.pyc
