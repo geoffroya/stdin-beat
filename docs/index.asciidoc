@@ -1,0 +1,5 @@
+= Stdin-beat Docs
+
+Welcome to the Stdin-beat documentation.
+
+

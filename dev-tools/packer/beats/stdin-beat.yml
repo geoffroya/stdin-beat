@@ -1,0 +1,4 @@
+beat_name: stdin-beat
+beat_url: 'https://src/github.com/geoffroya/stdin-beat'
+beat_repo: 'src/github.com/geoffroya/stdin-beat'
+beat_description: Sends stdin-beat metrics to Logstash or directly to Elasticsearch.
